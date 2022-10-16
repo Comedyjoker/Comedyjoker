@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <a href="https://vk.com/id282081171)">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
-
-</a>
-
 <br />
 
 Привет, меня зовут Anvar, я system-admin. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
